@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local MainGui = Instance.new("Frame")
 local BottomBar = Instance.new("Frame")
